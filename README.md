@@ -1,16 +1,18 @@
 # Subway Surfers — 3D Endless Runner
 
+## Designed & Developed by Shivam Kumar | © 2026
+
 A browser-based 3D endless runner game inspired by Subway Surfers, built with **React** and **Three.js**. No game engine, no asset files — everything is procedurally generated with code.
 
 ---
 
 ## 🚀 Live Demo
 
-**[https://subway-surfers-flame-alpha.vercel.app/](https://subway-surfers-flame-alpha.vercel.app/)**
+**[https://subway-rush-2026.vercel.app/](https://subway-rush-2026.vercel.app/)**
 
 ## 📁 GitHub Repository
 
-**[https://github.com/NikhilMamilla/Subway-Surfers](https://github.com/NikhilMamilla/Subway-Surfers)**
+**[https://github.com/shivam-jha-89/Subway-Rush-2026](https://github.com/shivam-jha-89/Subway-Rush-2026)**
 
 ---
 
@@ -109,7 +111,7 @@ src/
 ### Install & run locally
 
 ```bash
-git clone https://github.com/NikhilMamilla/Subway-Surfers.git
+git clone https://github.com/shivam-jha-89/Subway-Rush-2026
 cd Subway-Surfers
 npm install
 npm run dev
